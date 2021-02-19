@@ -2,6 +2,7 @@
 # 1- Make a new project
 # 2- Pull the main git branch into your computer
 # 3- Create a new branch in your repo and name it myname_homework1_sol
+#doneeeee
 # 4- You see the file named "supermarket_sales - Sheet1.csv" in R, rename it according to the good practice we discussed then 
 # import this file into a dataframe. 
 # 5- What is the class of this data and what is its disk size?
